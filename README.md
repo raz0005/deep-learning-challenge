@@ -1,6 +1,6 @@
 # Neural Network Model for Alphabet Soup
 
-## Overview of the Analysis
+## Analysis Report
 
 ### Purpose of the Analysis
 The purpose of this analysis was to develop and optimize a neural network model to predict the success of charitable donations using data provided by 'Alphabet Soup.' The goal was to create a model that accurately classifies whether a charity application will be successful based on a variety of features. This model was initially developed in the `Starter_Code.ipynb` file and later optimized in the `AlphabetSoupCharity_Optimization.ipynb` file.
